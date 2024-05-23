@@ -1,0 +1,3 @@
+/home/student/Desktop/dreamteam/build/CMakeFiles/dreamteam.dir
+/home/student/Desktop/dreamteam/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/dreamteam/build/CMakeFiles/rebuild_cache.dir

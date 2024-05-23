@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dreamteam.dir/dreammain.c.o CMakeFiles/dreamteam.dir/sortbubble.c.o CMakeFiles/dreamteam.dir/sortshell.c.o CMakeFiles/dreamteam.dir/sortbin.c.o CMakeFiles/dreamteam.dir/vivodmas.c.o CMakeFiles/dreamteam.dir/genmas.c.o -o dreamteam 
